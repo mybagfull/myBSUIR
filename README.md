@@ -11,8 +11,9 @@ RU: В данном репозитории представлены лабора
 <details>
 <summary>📘 Мои учебные проекты:</summary>
  
-- [✅**Консольная программа DC клиента(курсовая)**](https://github.com/mybagfull/HashStrings) [`C`](https://github.com/mybagfull/bsuir/search?l=C) [`Linux`](https://github.com/mybagfull/bsuir/search?l=Linux)
+- [✅**Консольная программа DC клиента(курсовая)**](https://github.com/mybagfull/clientDC) [`C`](https://github.com/mybagfull/bsuir/search?l=C) [`Linux`](https://github.com/mybagfull/bsuir/search?l=Linux)
 - [✅**Java epam(лабороторные)**](https://github.com/mybagfull/javaEPAM) [`JAVA`](https://github.com/mybagfull/bsuir/search?l=JAVA) [`Spring`](https://github.com/mybagfull/bsuir/search?l=Spring)
+- [✅**OSiSP(лабороторные)**](https://github.com/mybagfull/osisplinux) [`Linux`](https://github.com/mybagfull/bsuir/search?l=Linux) [`C`](https://github.com/mybagfull/bsuir/search?l=C)
 - [✅**Print Helper**](https://github.com/mybagfull/PrintHelper) [`C`](https://github.com/mybagfull/bsuir/search?l=C)
 - [✅**Менеджер диеты (курсовая работа)**](https://github.com/mybagfull/DietManagerNyan) [`C`](https://github.com/mybagfull/bsuir/search?l=C) [`C++`](https://github.com/mybagfull/bsuir/search?l=C++)
 - [✅**Сравнение строк алгоритмом хэширования(практика)**](https://github.com/mybagfull/HashStrings) [`C`](https://github.com/mybagfull/bsuir/search?l=C)
